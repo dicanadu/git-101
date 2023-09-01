@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    font-family: Helvetica;
+}
+
+#container {
+    display: flex;
+    align-items: center;
+}
